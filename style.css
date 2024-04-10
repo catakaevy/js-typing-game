@@ -31,6 +31,7 @@ body {
   box-shadow: 1px 5px 6px rgb(80, 80, 80);
   margin-top: 5rem;
   position: relative;
+  z-index: 1;
 }
 
 .container .typeInput {
@@ -44,6 +45,7 @@ body {
   font-size: 5rem;
   font-weight: bold;
   color: rgb(202, 87, 87);
+  z-index: 2;
 }
 
 .type-display {
